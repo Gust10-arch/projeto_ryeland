@@ -14,8 +14,6 @@ O projeto consiste em um site que ajudará a ovinocaprinocultura (criação de b
 
 Francisco Gustavo
 
-Layzon Nicolas
-
 Noan Guedes
 
 Nicollas de França
